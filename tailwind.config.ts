@@ -13,7 +13,7 @@ export default {
         foreground: "var(--foreground)",
       },
       screens: { 
-        'custom-xl': { 'min': '1280px', 'max': '1023px' }, 
+        'custom-xl': { 'min': '800px', 'max': '1281px' }, 
         'custom-lg': { 'min': '1023px', 'max': '1281px' }, 
         'custom-md': { 'min': '900px', 'max': '1024px' }, 
         'custom-sm': { 'min': '800px', 'max': '900px' }, 
